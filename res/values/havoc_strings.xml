@@ -28,6 +28,10 @@
     <string name="havoc_version_default">Unknown</string>
     <string name="keywords_havoc_version">havoc version</string>
 
+     <!-- HavocOS maintainer -->
+    <string name="maintainer">Maintainer</string>
+    <string name="maintainer_name" translatable="false">Your local GitHub Retard</string>
+
     <!-- About phone screen, build date -->
     <string name="build_date">Build date</string>
     <string name="build_date_default">2015-01-01-0000</string>

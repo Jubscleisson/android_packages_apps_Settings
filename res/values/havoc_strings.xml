@@ -510,6 +510,6 @@
     <string name="device_info_protected_single_press">Tap to show info</string>
 
     <!--HavocOS Maintainer -->
-    <string name="havoc_maintainer">Device Maintainer</string>
+    <string name="havoc_maintainer">Device maintainer</string>
 
 </resources>
